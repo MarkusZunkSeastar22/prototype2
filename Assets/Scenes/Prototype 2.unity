@@ -487,7 +487,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3bd8a450fcb589542a7843ea7bda2ee6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.64
+      value: -2.06
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3bd8a450fcb589542a7843ea7bda2ee6, type: 3}
       propertyPath: m_LocalPosition.y
@@ -732,11 +732,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c38ad65245157cb4488287be2d0202a4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  horizontallnput: 0
+  horizontallnput: 10
   speed: 10
-  xRange: 10
-  projectilePrefab: {fileID: 6539215773134438224, guid: aacfa1f2ca9209e4690ab2145389a169,
-    type: 3}
 --- !u!1001 &1964667418
 PrefabInstance:
   m_ObjectHideFlags: 0
